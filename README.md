@@ -24,7 +24,7 @@ Power BI power Query.
 Data cleaning and Transformation.
 Data visualization.
 
-![Dashboard Preview](Health Dashboard 1.png)
+![Dashboard Preview]https://github.com/PRECIOUS-MONIOLUWA-ADEKUNLE/Ulcer-Risk-Analysis-Dashboard/blob/main/Health%20Dashboard%201.png
 
 
 Healthcare Questions Answered
