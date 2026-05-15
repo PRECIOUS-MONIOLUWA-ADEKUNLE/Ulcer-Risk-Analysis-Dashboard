@@ -24,7 +24,7 @@ Power BI power Query.
 Data cleaning and Transformation.
 Data visualization.
 
-![Dashboard Preview](image/dashboard-preview.png)
+![Dashboard Preview](Health Dashboard 1.png)
 
 
 Healthcare Questions Answered
